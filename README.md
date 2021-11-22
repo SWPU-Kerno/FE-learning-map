@@ -15,7 +15,7 @@
 ## 基础
 * [x] [HTML](HTML.md)
 * [x] [CSS](CSS.md)
-* [ ] JS
+* [x] [JS](JavaScript.md)
 
 ## 进阶
 ...未完待续
@@ -25,3 +25,11 @@
 
 ## 大前端相关内容
 ...未完待续
+
+## 前端路线参考
+
+> 原图有三个阶段、不是从开始就是这个路线、
+>
+> 大一先按照HTML+CSS+JS入门、后面基本就知道自己缺什么、学什么
+
+![图片](https://img.cdn.sugarat.top/mdImg/MTYzNzU5MDcyMDUyMw==637590720523)
