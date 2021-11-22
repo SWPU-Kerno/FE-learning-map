@@ -1,6 +1,10 @@
 # CSS
 
 ## 学习资料
+
+- [尚硅谷HTML+CSS](https://www.bilibili.com/video/BV1XJ411X7Ud?from=search&seid=15840114647034715222&spm_id_from=333.337.0.0)
+- [黑马程序员HTML+CSS](https://www.bilibili.com/video/BV14J4114768?from=search&seid=15840114647034715222&spm_id_from=333.337.0.0)
+
 * 字典&查询语法属性使用
     * [参考手册](http://css.doyoe.com/)
     * [MDN:CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
