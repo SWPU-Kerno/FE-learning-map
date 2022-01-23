@@ -1,4 +1,6 @@
 # JavaScript
+个人比较推荐，通过文档去学习，遇到晦涩难懂的知识点，再去通过搜索引擎查找视频课程或博客文章解决
+
 
 ## 学习资料
 
@@ -7,11 +9,15 @@
   - [黑马程序员](https://www.bilibili.com/video/BV1Sy4y1C7ha?from=search&seid=10957772823809239673&spm_id_from=333.337.0.0)
   - [ES6](https://www.bilibili.com/video/BV1uK411H7on?from=search&seid=9149283247022339859&spm_id_from=333.337.0.0)
 - 文档
-  - [JavaScript](https://wangdoc.com/javascript/)
-  - [ES6](https://es6.ruanyifeng.com/)
-  - [语雀资源库](https://kerno.yuque.com/dashboard)
+  - [网道](https://wangdoc.com/)在线文档
+    - [ES5](https://wangdoc.com/javascript/)
+    - [ES6](https://wangdoc.com/es6/)
+  - [现代JavaScript](https://zh.javascript.info/)
+- ⭐️在线学习+闯关练习
+  - [freecodecamp](https://chinese.freecodecamp.org/learn/)
 
 ## 知识点
+TODO：待整理
 
 - 数据类型、基本语法、类型转换
   - 基本数据类型(原始类型)
